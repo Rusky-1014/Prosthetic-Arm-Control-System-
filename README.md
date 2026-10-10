@@ -1,5 +1,7 @@
 # Robotic Hand — Camera Control
 
+<video src="https://raw.githubusercontent.com/Rusky-1014/Prosthetic-Arm-Control-System-/main/media/demo.mp4" controls="controls" muted="muted" poster="media/demo_thumbnail.jpg" style="max-height:480px;"></video>
+
 Your webcam watches your hand, a Python script on your Mac measures each
 finger's (and thumb's) real joint angle plus your wrist's rotation,
 retargets each through a calibrated tendon-transmission model, and sends
