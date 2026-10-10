@@ -1,6 +1,6 @@
 # Robotic Hand — Camera Control
 
-<video src="https://github.com/user-attachments/assets/e79d660b-6b61-4712-8629-581116b7a204" controls="controls" muted="muted" style="max-height:480px;"></video>
+[![Demo video — click to play](media/demo_thumbnail.jpg)](https://github.com/user-attachments/assets/e79d660b-6b61-4712-8629-581116b7a204)
 
 Your webcam watches your hand, a Python script on your Mac measures each
 finger's (and thumb's) real joint angle plus your wrist's rotation,
